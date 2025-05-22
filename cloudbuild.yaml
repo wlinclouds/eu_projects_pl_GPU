@@ -4,3 +4,5 @@ steps:
 logsBucket: 'gs://eu_projects_builds_logs'
 options:
   logging: GCS_ONLY
+images:
+- 'us-central1-docker.pkg.dev/innate-agency-460017-r4/vertex-ai-hpt-repo-gpu/umap-hdbscan-tuner-gpu:latest'
