@@ -1,0 +1,7 @@
+google-cloud-bigquery
+pandas
+scikit-learn
+cloudml-hypertune
+joblib
+numpy
+google-cloud-storage
